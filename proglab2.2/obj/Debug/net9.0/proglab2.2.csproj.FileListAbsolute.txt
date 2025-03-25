@@ -1,0 +1,15 @@
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.GeneratedMSBuildEditorConfig.editorconfig
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.AssemblyInfoInputs.cache
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.AssemblyInfo.cs
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.csproj.CoreCompileInputs.cache
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.sourcelink.json
+/home/demian/Documents/fiotlab1/proglab2.2/bin/Debug/net9.0/proglab2.2
+/home/demian/Documents/fiotlab1/proglab2.2/bin/Debug/net9.0/proglab2.2.deps.json
+/home/demian/Documents/fiotlab1/proglab2.2/bin/Debug/net9.0/proglab2.2.runtimeconfig.json
+/home/demian/Documents/fiotlab1/proglab2.2/bin/Debug/net9.0/proglab2.2.dll
+/home/demian/Documents/fiotlab1/proglab2.2/bin/Debug/net9.0/proglab2.2.pdb
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.dll
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/refint/proglab2.2.dll
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.pdb
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/proglab2.2.genruntimeconfig.cache
+/home/demian/Documents/fiotlab1/proglab2.2/obj/Debug/net9.0/ref/proglab2.2.dll

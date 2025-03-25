@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5i1+J+KdWtY=",
+  "success": true,
+  "projectFilePath": "/home/demian/Documents/fiotlab1/proglab2.2/proglab2.2.csproj",
+  "expectedPackageFiles": [
+    "/home/demian/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
