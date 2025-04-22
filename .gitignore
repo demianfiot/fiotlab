@@ -1,0 +1,61 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio working files
+.vscode/
+.idea/
+*.vcxproj.user
+*.vcxproj.filters
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+*.pdb
+*.pid
+*.sourcemap
+
+# Ignore generated files
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+*.class
+
+# Ignore runtime files
+*.deps.json
+*.runtimeconfig.json
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+*.swp
+*.bak
+*.orig
+
+# Ignore coverage and test results
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# Ignore lock files
+*.lock
