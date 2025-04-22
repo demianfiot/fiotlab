@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PU7EH1Cvz4Y=",
+  "dgSpecHash": "AvhXBbV7Qag=",
   "success": true,
-  "projectFilePath": "/home/demian/Documents/proglab1.3/proglab1.3.csproj",
+  "projectFilePath": "/home/demian/Documents/fiotlab1/proglab1.3/proglab1.3.csproj",
   "expectedPackageFiles": [
     "/home/demian/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
   ],

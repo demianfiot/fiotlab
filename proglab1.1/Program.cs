@@ -17,15 +17,17 @@ class Program
 
     static void sort(List<int> list)
     {
-        int i = 0;
-        for (int j = 0; j < list.Count; j++)
+        int index = 0; 
+
+        for (int i = 0; i < list.Count; i++)
         {
-            if (list[j] >= 0)
+            if (list[i] >= 0)
             {
-                (list[i], list[j]) = (list[j], list[i]);
-                i++;
+                (list[i], list[index]) = (list[index], list[i]);
+                index++;
             }
         }
+
     }
 
     static void PrintList(List<int> list)

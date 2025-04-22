@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/demian/Documents/proglab1.2/proglab1.2.csproj",
+      "projectUniqueName": "/home/demian/Documents/fiotlab1/proglab1.2/proglab1.2.csproj",
       "projectName": "proglab1.2",
-      "projectPath": "/home/demian/Documents/proglab1.2/proglab1.2.csproj",
+      "projectPath": "/home/demian/Documents/fiotlab1/proglab1.2/proglab1.2.csproj",
       "packagesPath": "/home/demian/.nuget/packages/",
-      "outputPath": "/home/demian/Documents/proglab1.2/obj/",
+      "outputPath": "/home/demian/Documents/fiotlab1/proglab1.2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/demian/.nuget/NuGet/NuGet.Config"

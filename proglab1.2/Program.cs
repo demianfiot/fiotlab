@@ -41,12 +41,15 @@ class Program
         string json = JsonSerializer.Serialize(dict, new JsonSerializerOptions { WriteIndented = true });
         File.WriteAllText(filePath, json);
     }
-
     static void PrintDictionary<T>(Dictionary<string, T> dict)
     {
         foreach (var pair in dict)
         {
-            Console.WriteLine($"{pair.Key}: {pair.Value}");
+            if (pair.Value is List<int> list)
+                Console.WriteLine($"{pair.Key}: [{string.Join(", ", list)}]");
+            else
+                Console.WriteLine($"{pair.Key}: {pair.Value}"); 
         }
     }
+
 }

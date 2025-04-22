@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("proglab1.1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+024c18f102371e0e37ae2c0b6a07f813173e8e6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c82e170185c92526058166e66be09a7ea397aa1")]
 [assembly: System.Reflection.AssemblyProductAttribute("proglab1.1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("proglab1.1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/demian/Documents/proglab1.1/proglab1.1.csproj": {}
+    "/home/demian/Documents/fiotlab1/proglab1.1/proglab1.1.csproj": {}
   },
   "projects": {
-    "/home/demian/Documents/proglab1.1/proglab1.1.csproj": {
+    "/home/demian/Documents/fiotlab1/proglab1.1/proglab1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/demian/Documents/proglab1.1/proglab1.1.csproj",
+        "projectUniqueName": "/home/demian/Documents/fiotlab1/proglab1.1/proglab1.1.csproj",
         "projectName": "proglab1.1",
-        "projectPath": "/home/demian/Documents/proglab1.1/proglab1.1.csproj",
+        "projectPath": "/home/demian/Documents/fiotlab1/proglab1.1/proglab1.1.csproj",
         "packagesPath": "/home/demian/.nuget/packages/",
-        "outputPath": "/home/demian/Documents/proglab1.1/obj/",
+        "outputPath": "/home/demian/Documents/fiotlab1/proglab1.1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/demian/.nuget/NuGet/NuGet.Config"
